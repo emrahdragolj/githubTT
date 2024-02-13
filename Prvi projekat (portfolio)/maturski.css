@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+    
+}
+.navbar {
+    border-radius: 10px;
+}
+.nav-link.active.nav-link.active.m-1:hover {
+background-color: lightblue;
+border-radius: 20px 30px;}
+
+input{
+    border-radius: 10px;
+    position: relative;
+    left: 50px;
+    top: 10px;
+    width: 80%;
+}
+button{
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(199, 194, 202);
+    font-weight: 800;
+
+}
+.align-self-center {
+    margin-left: 250px;
+}
